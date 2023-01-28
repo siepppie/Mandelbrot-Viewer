@@ -1,0 +1,11 @@
+D:\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.AssemblyReference.cache
+D:\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.Properties.Resources.resources
+D:\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.GenerateResource.cache
+D:\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.exe.config
+D:\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.exe
+D:\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.pdb
+D:\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.exe
+D:\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.pdb
+D:\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.Form1.resources
